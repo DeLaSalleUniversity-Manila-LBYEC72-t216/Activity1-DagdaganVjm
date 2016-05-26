@@ -16,7 +16,7 @@ printf("\t\t@@@@@@@@@@@@@@@@@@@@@@@\n");
 
 }
 ```
-![](resume.PNG)
+![](resume.png)
 ```
 #include<stdio.h>
 #include<stdlib.h>
@@ -29,7 +29,7 @@ int main()
    printf("The area of the tringle is %.2f", area);
 }
 ```
-![](triangle.PNG)
+![](triangle.png)
 ```
 #include<stdio.h>
 #include<stdlib.h>
@@ -44,7 +44,7 @@ int main()
    printf ("the appropriate age is %f",n);
 }
 ```
-![](age.PNG)
+![](age.png)
 ```
 #include<stdio.h>
 #include<stdlib.h>
@@ -59,6 +59,6 @@ int main()
    printf ("the value of X is %f",C);
 }
    ```
-   ![](f(x).PNG)
+   ![](f(x).png)
    ```
    
